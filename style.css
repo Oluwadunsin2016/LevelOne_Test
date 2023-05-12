@@ -1,0 +1,56 @@
+nav{
+width: 100%;
+    position: sticky;
+    top: 0;
+    background-color: #fff;
+    z-index: 99;
+}
+nav > ul{
+text-transform: uppercase;
+font-size: 17px;
+}
+nav > ul > li{
+cursor: pointer;
+}
+/* Section 1 */
+.carousel-item > .caption{
+position: absolute;
+top: 0;
+width: 100%;
+color: white;
+text-align: center;
+padding-top: 10%;
+}
+
+
+.carousel-item > .caption h1{
+font-size: 45px;
+}
+.carousel-item > .caption > button{
+text-transform: uppercase;
+font-weight: bold;
+margin-top: 20px;
+}
+
+/* Section 2 */
+.two{
+background-color: #FAFAFA;
+}
+/* Section 3 */
+.three .card{
+background-color: #EDF0F5;
+}
+.three h2{
+color: #0589DC;
+text-align: center;
+}
+.three .card > h3{
+color: #0589DC;
+}
+/* Section 5 */
+.five{
+padding: 6rem 3rem;
+}
+.five > div{
+height: 8rem;
+}
