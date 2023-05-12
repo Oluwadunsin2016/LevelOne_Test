@@ -54,3 +54,20 @@ padding: 6rem 3rem;
 .five > div{
 height: 8rem;
 }
+/* Section 6 */
+.six{
+background-color: black;
+color: white;
+padding: 3rem;
+}
+
+.line{
+height: 1px;
+background-color: white;
+}
+/* Section 7 */
+.seven{
+background-color: black;
+color: white;
+}
+
